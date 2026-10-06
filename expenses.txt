@@ -1,0 +1,2 @@
+lunch,120.0,food
+cab,200.0,transport
